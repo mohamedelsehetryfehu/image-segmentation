@@ -16,7 +16,7 @@ This project focuses on automating the segmentation of weather forecasting image
 If you intend to contribute to the development of this project, adhere to the following guidelines:
 
 ###  :electric_plug: Installation
-- Clone the repository from GitHub
+- Clone the repository.
 - Install the required dependencies.
 - Ensure you have Python installed on your system.
 - Place the image file you wish to segment in the project directory.
@@ -35,7 +35,7 @@ Ensure you have the following prerequisites installed:
 ###  :nut_and_bolt: Development Environment
 To set up the development environment, proceed as follows:
 
-- Clone the repository from GitHub: repository_link
+- Clone the repository.
 - Install the required dependencies.
 - Set up your development environment (e.g., virtual environment, IDE).
 - Start coding and contribute to the project!
